@@ -9,6 +9,8 @@ This program was composed of 5 courses:
 * Networking
 * Databases
 
+---
+
 --> This project was the second and final project of the "User Input" course (Project #3 of program).
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
@@ -34,4 +36,4 @@ Here are some screenshots from the submitted version (1.0) for graduating :
 
 --> YouTube demo #3 can be found [here](https://www.youtube.com/watch?v=ofbphqK6W1A).
 
---> YouTube demo #3 can be found [here](https://www.youtube.com/watch?v=7jfiQyZSFs4).
+--> YouTube demo #4 can be found [here](https://www.youtube.com/watch?v=7jfiQyZSFs4).
