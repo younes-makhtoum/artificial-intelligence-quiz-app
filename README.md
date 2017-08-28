@@ -1,6 +1,6 @@
 # artificial-intelligence-quiz-app
 
-*** Android Basics Nanodegree program designed by Udacity & Google ***
+_Android Basics Nanodegree program designed by Udacity & Google_**
 
 This program was composed of 5 courses:
 * User Interface
@@ -13,6 +13,10 @@ This program was composed of 5 courses:
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
 
---> I chose the topic of <b>Artificial Intelligence</b>. Below is the list of chosen sections and questions for this quiz :
+Project specifications can be found [here](../blob/master/udacity-abn-quiz-app-specifications.pdf)
+
+--> I chose the topic of <b>Artificial Intelligence</b>.
+
+--> Below is the list of chosen sections and questions for this quiz :
 
 ![alt tag](udacity-abn-quiz-app-themes-questions.PNG?raw=true)
