@@ -12,3 +12,5 @@ This program was composed of 4 courses:
 --> This project was the second and final project of the "User Input" course (Project #3 of program)
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
+
+![Alt text](/artificial-intelligence-quiz-app/udacity-abn-quiz-app-themes-questions.png?raw=true)
