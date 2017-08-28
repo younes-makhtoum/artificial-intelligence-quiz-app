@@ -30,7 +30,7 @@ Here are some screenshots from the submitted version (1.0) for graduating :
 <img src ="documentation/screenshots/udacity-abn-quiz-app-v1.0-ss3.png?raw=true" width="23%"></img>
 <img src ="documentation/screenshots/udacity-abn-quiz-app-v1.0-ss4.png?raw=true" width="23%"></img>
 
---> YouTube demo #1 can be found [here](https://www.youtube.com/watch?v=YQh5L1Vrk2s){:target="_blank"}.
+--> YouTube demo #1 can be found [here](https://www.youtube.com/watch?v=YQh5L1Vrk2s).
 
 --> YouTube demo #2 can be found [here](https://www.youtube.com/watch?v=SDCErl0CnnM).
 
