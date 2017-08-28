@@ -13,4 +13,6 @@ This program was composed of 5 courses:
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
 
+--> I chose the topic of <b>Artificial Intelligence</b>. Below is the list of chosen sections and questions for this quiz :
+
 ![alt tag](udacity-abn-quiz-app-themes-questions.PNG)
