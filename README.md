@@ -27,3 +27,7 @@ Here are some screenshots from the submitted version (1.0) for graduating :
 <img src ="documentation/screenshots/udacity-abn-quiz-app-v1.0-ss2.png?raw=true" width="23%"></img>
 <img src ="documentation/screenshots/udacity-abn-quiz-app-v1.0-ss3.png?raw=true" width="23%"></img>
 <img src ="documentation/screenshots/udacity-abn-quiz-app-v1.0-ss4.png?raw=true" width="23%"></img>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YQh5L1Vrk2s
+" target="_blank"><img src="http://img.youtube.com/vi/YQh5L1Vrk2s/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
