@@ -2,12 +2,13 @@
 
 *** Android Basics Nanodegree program designed by Udacity & Google ***
 
-Android Course : User Input
+This program was composed of 4 courses:
+* User Interface
+* User Input
+* Multi-screen apps
+* Networking
+* Databases
 
---> Second and final project of course
+--> This project was the second and final project of the "User Input" course (Project #3 of program)
 
---> Project #3 of program
-
-Objective :
-
-The goal was to create an educational app that quizzes a user about a chosen topic.
+--> The goal was to create an educational app that quizzes a user about a chosen topic.
