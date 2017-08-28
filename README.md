@@ -2,7 +2,7 @@
 
 *** Android Basics Nanodegree program designed by Udacity & Google ***
 
-This program was composed of 4 courses:
+This program was composed of 5 courses:
 * User Interface
 * User Input
 * Multi-screen apps
@@ -13,4 +13,4 @@ This program was composed of 4 courses:
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
 
-![alt tag](udacity-abn-quiz-app-themes-questions.png)
+![alt tag](udacity-abn-quiz-app-themes-questions.PNG)
