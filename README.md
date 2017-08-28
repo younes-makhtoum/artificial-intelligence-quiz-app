@@ -32,7 +32,7 @@ Here are some screenshots from the submitted version (1.0) for graduating :
 
 YouTube demo #1 can be found <a href="https://www.youtube.com/watch?v=YQh5L1Vrk2s" target="_blank">here</a>
 
---> YouTube demo #1 can be found [here](https://www.youtube.com/watch?v=YQh5L1Vrk2s).
+--> YouTube demo #1 can be found [here](https://www.youtube.com/watch?v=YQh5L1Vrk2s){:target="_blank"}.
 
 --> YouTube demo #2 can be found [here](https://www.youtube.com/watch?v=SDCErl0CnnM).
 
