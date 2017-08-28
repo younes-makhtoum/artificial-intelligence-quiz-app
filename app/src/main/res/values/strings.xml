@@ -1,0 +1,137 @@
+<resources>
+
+    <string name="app_name">AI Quiz</string>
+    <string name="quiz_title">AI Quiz</string>
+    <string name="quiz_icon">Icon for the quiz title</string>
+    <string name="toast_icon">Icon for the custom toast</string>
+
+    <string name="quiz_description">This quiz is about artificial intelligence (AI).
+        You will be asked 10 questions grouped in 5 topics:</string>
+    <string name="topics_list">Definitions\nHistory\nTechnical\nApplications\nStart-ups</string>
+
+    <!--Strings for player name management :-->
+
+    <string name="player_name_request">Before starting the quiz,\ncould you please&#8230;</string>
+    <string name="player_name_hint">enter your name in this box</string>
+    <string name="player_name_is">The current player is :\n</string>
+    <string name="anonymous_player">Anonymous Player</string>
+    <string name="save_player_name">Save Name</string>
+    <string name="edit_player_name">Edit Name</string>
+
+    <!--Strings for open-questions answers management :-->
+
+    <string name="answer_hint">enter your answer in this box</string>
+    <string name="save_answer">Save Answer</string>
+    <string name="edit_answer">Edit Answer</string>
+
+    <!--Strings for topics and questions content :-->
+
+    <string name="topic_section_1">Definitions</string>
+    <string name="topic_section_2">History</string>
+    <string name="topic_section_3">Technical</string>
+    <string name="topic_section_4">Applications</string>
+    <string name="topic_section_5">Start-ups</string>
+
+    <string name="question_heading_1">Question #1 :</string>
+    <string name="question_heading_2">Question #2 :</string>
+    <string name="question_heading_3">Question #3 :</string>
+    <string name="question_heading_4">Question #4 :</string>
+    <string name="question_heading_5">Question #5 :</string>
+    <string name="question_heading_6">Question #6 :</string>
+    <string name="question_heading_7">Question #7 :</string>
+    <string name="question_heading_8">Question #8 :</string>
+    <string name="question_heading_9">Question #9 :</string>
+    <string name="question_heading_10">Question #10 :</string>
+
+    <string name="question_content_1">Intelligence&#8230;</string>
+    <string name="question_content_2">Artificial intelligence&#8230;</string>
+    <string name="question_content_3">In which year were the first AI program written?</string>
+    <string name="question_content_4">In which university was held the first International Joint Conference on AI?</string>
+    <string name="question_content_5">Which of the following systems used by AI, approximates the operations of the human brain?</string>
+    <string name="question_content_6">What is weak AI?</string>
+    <string name="question_content_7">What is the name of the AI program developed by Deepmind/Google, who defeated the world champion of the board game « Go » ?</string>
+    <string name="question_content_8">Which of these technologies powers Google’s self-driving car?</string>
+    <string name="question_content_9">Name one of the 3 top cities in the world, that hosts the most number of AI start-ups?</string>
+    <string name="question_content_10">Worldwide, what was the total fund raised by AI start-ups in 2016?</string>
+
+    <string name="answer_A_question_1">can be defined as a set of general cognitive problem-solving skills.</string>
+    <string name="answer_B_question_1">can only be expressed as analytical or logical capabilities.</string>
+    <string name="answer_C_question_1">includes the ability to process information and retain it as knowledge to be applied later on within relevant environments or contexts.</string>
+    <string name="answer_D_question_1">is always acquired by experience.</string>
+
+    <string name="answer_A_question_2">is intelligence exhibited by machines.</string>
+    <string name="answer_B_question_2">can be built by using deep learning algorithms.</string>
+    <string name="answer_C_question_2">cannot be applied in social sciences (e.g. economics, law, psychology, archeology…).</string>
+    <string name="answer_D_question_2">is capable of cognitive-related processes like learning, reasoning and self-correction.</string>
+
+    <string name="answer_A_question_3">1951</string>
+    <string name="answer_B_question_3">1966</string>
+    <string name="answer_C_question_3">1974</string>
+    <string name="answer_D_question_3">1983</string>
+
+    <string name="answer_A_question_4">Princeton</string>
+    <string name="answer_B_question_4">Yale</string>
+    <string name="answer_C_question_4">Harvard</string>
+    <string name="answer_D_question_4">Stanford</string>
+
+    <string name="answer_A_question_5">Intelligent network</string>
+    <string name="answer_B_question_5">Decision support system</string>
+    <string name="answer_C_question_5">Neural network</string>
+    <string name="answer_D_question_5">Genetic programming</string>
+
+    <string name="answer_A_question_6">It’s an AI system that cannot defeat human intelligence in a competition game.</string>
+    <string name="answer_B_question_6">It’s an AI system that is designed and trained for a particular task.</string>
+    <string name="answer_C_question_6">It’s an AI system that requires human assistance to deliver the intended behavior it was built for.</string>
+    <string name="answer_D_question_6">It’s an AI system that requires a defined minimum level of training to be able to perform the intended tasks it was built for.</string>
+
+    <string name="answer_A_question_8">Laser range finder</string>
+    <string name="answer_B_question_8">Ultrasonic sensors</string>
+    <string name="answer_C_question_8">Augmented reality</string>
+    <string name="answer_D_question_8">Bumper mounted radar</string>
+
+    <string name="answer_A_question_10">$ 650 Million</string>
+    <string name="answer_B_question_10">$ 1,5 Billion</string>
+    <string name="answer_C_question_10">$ 5 Billion</string>
+    <string name="answer_D_question_10">$ 8 Billion</string>
+
+    <!--Strings for accepted answers to open-questions :-->
+
+    <string name="accepted_answer_1_Q7">AlphaGo</string>
+    <string name="accepted_answer_2_Q7">Alpha Go</string>
+    
+    <string name="accepted_answer_1_Q9">San Francisco</string>
+    <string name="accepted_answer_2_Q9">SF</string>
+    <string name="accepted_answer_3_Q9">Boston</string>
+    <string name="accepted_answer_4_Q9">New York</string>
+    <string name="accepted_answer_5_Q9">New York City</string>
+    <string name="accepted_answer_6_Q9">NYC</string>
+
+    <!--Strings for submit answers and reset buttons :-->
+
+    <string name="submit_answers">Submit Answers</string>
+    <string name="reset_quiz">Reset</string>
+
+    <!--Strings for result message toast :-->
+
+    <string name="comma_drop_two_lines">,\n\n</string>
+    <string name="results_toast_msg_part_1">You scored&#160;</string>
+    <string name="results_toast_msg_part_2">% correct answers.\n\n</string>
+
+    <string name="results_toast_comment_very_low">This is a very low score on the quiz.\n\nHave you ever heard about AI?!</string>
+    <string name="results_toast_comment_low">This is a pretty low score on the quiz.\n\nGo and read more about AI, then come back to try again !</string>
+    <string name="results_toast_comment_medium">This is a fair score on the quiz !\n\nYou should broaden your readings about AI, then come back to try again !</string>
+    <string name="results_toast_comment_high">This is a very good score on the quiz !\n\nTry again to get a perfect score !</string>
+    <string name="results_toast_comment_mastered">WOOOW !\n\nYou mastered this AI quiz !\n\nCongratulations !</string>
+
+    <!--Strings for error messages toast :-->
+
+    <string name="missing_answer_error_message">OOOPS !\n\nYou did not enter any answer in the box !</string>
+    <string name="missing_player_name_error_message">Please validate your name before submission.</string>
+    <string name="quiz_not_completed_error_message">CHECK YOUR ANSWERS !\n\nYou have to validate all your answers before submission.</string>
+
+    <!--Strings for reset message toast :-->
+
+    <string name="reset_quiz_message">All quiz inputs have been RESET !\n\nStart over or ask someone else to try the quiz !</string>
+
+</resources>
+

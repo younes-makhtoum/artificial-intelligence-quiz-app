@@ -1,0 +1,125 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/background</item>
+
+    </style>
+
+    <!-- Style for topic / section Buttons -->
+    <style name="TopicStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#0D47A1</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Style for question heading TextViews -->
+    <style name="QuestionHeadingStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#4DB6AC</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <!-- Style for question content TextViews -->
+    <style name="QuestionContentStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">15dp</item>
+        <item name="android:layout_marginEnd">15dp</item>
+        <item name="android:layout_marginBottom">30dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFA726</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- Style for answer TextViews -->
+    <style name="AnswerStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">15dp</item>
+        <item name="android:layout_marginEnd">15dp</item>
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:buttonTint">#F48FB1</item>
+        <item name="android:textColor">#F48FB1</item>
+        <item name="android:textColorHint">#EC407A</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <!-- Style for EditText Views -->
+    <style name="EditTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">25dp</item>
+        <item name="android:padding">7dp</item>
+        <item name="android:background">@drawable/input_text</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColorHint">#EC407A</item>
+        <item name="android:textColor">#EC407A</item>
+    </style>
+
+    <!-- Style for displayed EditText input in TextView -->
+    <style name="SavedEditTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginBottom">25dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textColor">#F48FB1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <!-- Style for button View -->
+    <style name="SubmitButtonStyle">
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:minHeight">30dip</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/submit_button</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:shadowColor">#A8A8A8</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">5</item>
+    </style>
+
+    <!-- Style for button View -->
+    <style name="ResetButtonStyle">
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:minHeight">30dip</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/reset_button</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:shadowColor">#A8A8A8</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">5</item>
+    </style>
+
+</resources>
