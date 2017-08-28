@@ -13,4 +13,4 @@ This program was composed of 4 courses:
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
 
-![Themes & Questions](/udacity-abn-quiz-app-themes-questions.png?raw=true)
+![Themes & Questions](./udacity-abn-quiz-app-themes-questions.png?raw=true)
