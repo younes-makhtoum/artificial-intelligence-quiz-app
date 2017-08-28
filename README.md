@@ -21,4 +21,8 @@ This program was composed of 5 courses:
 
 ![alt tag](documentation/udacity-abn-quiz-app-themes-questions.PNG?raw=true)
 
+Here are some screenshots from the submitted version (1.0) for graduating :
 
+![alt tag](documentation/screenshots/udacity-abn-quiz-app-v1.0-ss1.png?raw=true)
+![alt tag](documentation/screenshots/udacity-abn-quiz-app-v1.0-ss2.png?raw=true)
+![alt tag](documentation/screenshots/udacity-abn-quiz-app-v1.0-ss3.png?raw=true)
