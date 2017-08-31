@@ -6,11 +6,11 @@ certification
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
 
---> Project specifications can be found [here](documentation/udacity-abn-quiz-app-specifications.pdf).
+* [Project specifications](documentation/udacity-abn-quiz-app-specifications.pdf).
 
---> I chose the topic of <b>Artificial Intelligence</b>.
+* **Topic** : Artificial Intelligence
 
---> Below is the list of designed sections and questions for this quiz :
+* **Structure** : Below is the list of designed sections and questions for this quiz :
 
 ![alt tag](documentation/udacity-abn-quiz-app-themes-questions.PNG?raw=true)
 
