@@ -9,10 +9,6 @@ certification
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
 
-* **Topic** : Artificial Intelligence
-
-* **Structure** : Below is the list of designed sections and questions for this quiz :
-
 ![alt tag](documentation/udacity-abn-quiz-app-themes-questions.PNG?raw=true)
 
 Here are some screenshots from the submitted version (1.0) for graduating :
