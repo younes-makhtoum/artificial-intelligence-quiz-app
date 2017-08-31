@@ -1,6 +1,6 @@
 # artificial-intelligence-quiz-app
 
-**_Android Basics Nanodegree program designed by Udacity & Google_**
+![**_Android Basics Nanodegree by Google_**](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 This program was composed of 5 courses:
 * User Interface
