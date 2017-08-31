@@ -1,17 +1,8 @@
 # artificial-intelligence-quiz-app
 
-![Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
-
-This program was composed of 5 courses:
-* User Interface
-* User Input
-* Multi-screen apps
-* Networking
-* Databases
-
+Project #3 for ![Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+certification
 ---
-
---> This project was the second and final project of the "User Input" course (Project #3 of program).
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
 
