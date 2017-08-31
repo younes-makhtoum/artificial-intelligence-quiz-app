@@ -3,7 +3,7 @@
 Project #3 for [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 certification
 
-* [Specifications](documentation/udacity-abn-quiz-app-specifications.pdf)
+--> [Specifications](documentation/udacity-abn-quiz-app-specifications.pdf)
 
 ---
 
