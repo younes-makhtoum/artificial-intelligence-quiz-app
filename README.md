@@ -19,5 +19,3 @@ Screenshots from the submitted version (1.0) for graduating :
 * YouTube demo #2 : [Submission Checks / Score 20% ](https://www.youtube.com/watch?v=SDCErl0CnnM)
 * YouTube demo #3 : [Scores 40% - 60% - 80%](https://www.youtube.com/watch?v=ofbphqK6W1A)
 * YouTube demo #4 : [Perfect Score 100%](https://www.youtube.com/watch?v=7jfiQyZSFs4)
-
-![alt tag](documentation/udacity-abn-quiz-app-themes-questions.PNG?raw=true)
