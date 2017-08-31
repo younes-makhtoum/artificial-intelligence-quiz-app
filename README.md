@@ -1,12 +1,13 @@
 # artificial-intelligence-quiz-app
 
-Project #3 for ![Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+Project #3 for [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 certification
+
+* [Specifications](documentation/udacity-abn-quiz-app-specifications.pdf)
+
 ---
 
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
-
-* [Project specifications](documentation/udacity-abn-quiz-app-specifications.pdf).
 
 * **Topic** : Artificial Intelligence
 
