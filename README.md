@@ -3,9 +3,9 @@
 Project #3 for [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 certification
 
---> [Specifications](documentation/udacity-abn-quiz-app-specifications.pdf)
-
 --> The goal was to create an educational app that quizzes a user about a chosen topic.
+
+--> [Specifications](documentation/udacity-abn-quiz-app-specifications.pdf)
 
 ---
 Screenshots from the submitted version (1.0) for graduating :
