@@ -1,6 +1,6 @@
 # artificial-intelligence-quiz-app
 
-![**_Android Basics Nanodegree by Google_**](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+![Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 This program was composed of 5 courses:
 * User Interface
@@ -19,7 +19,7 @@ This program was composed of 5 courses:
 
 --> I chose the topic of <b>Artificial Intelligence</b>.
 
---> Below is the list of chosen sections and questions for this quiz :
+--> Below is the list of designed sections and questions for this quiz :
 
 ![alt tag](documentation/udacity-abn-quiz-app-themes-questions.PNG?raw=true)
 
